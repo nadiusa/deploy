@@ -13,18 +13,18 @@ This is a project, that is configured so that it could be able to deploy and pub
 <a name="start"></a>
 ## 2.  Tools and Technologies
 
-## For software deployment:
-### Microsoft Azure
-## For software implementation:
-### Flask
-### Sklearn
-### Json
-### Panda
+#### For software deployment:
+Microsoft Azure
+#### For software implementation:
+Flask
+Sklearn
+Json
+Panda
 
 See in the below sections steps how to run it.
 
 <a name="running"></a>
 ## 3. How to run
-### https://lab4-prediction.azurewebsites.net/  - to view the dataset
-### https://lab4-prediction.azurewebsites.net/multipleprediction - to view multiple predictions value
-### https://lab4-prediction.azurewebsites.net/errors - to view the errors (MSE, MAE, RMSE and R2)
+https://lab4-prediction.azurewebsites.net/  - to view the dataset
+https://lab4-prediction.azurewebsites.net/multipleprediction - to view multiple predictions value
+https://lab4-prediction.azurewebsites.net/errors - to view the errors (MSE, MAE, RMSE and R2)
