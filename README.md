@@ -13,11 +13,10 @@ This is a project, that is configured so that it could be able to deploy and pub
 <a name="start"></a>
 ## 2.  Tools and Technologies
 
-For software deployment:
+## For software deployment:
 ### Microsoft Azure
-For software implementation:
-
-## Flask
+## For software implementation:
+### Flask
 ### Sklearn
 ### Json
 ### Panda
